@@ -12,5 +12,5 @@
 + Clarifai https://www.clarifai.com/
 
 ## Quizes
-+ Link to interactive quizes http://bit.ly/2Y8MTi2
++ Link to interactive quizes http://bit.ly/2Y8MTi2  
 ![A test image](quiz_qr.png)
