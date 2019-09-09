@@ -13,4 +13,4 @@
 
 ## Quizes
 + Link to interactive quizes http://bit.ly/2Y8MTi2  
-<img src="quiz_qr.png" alt="quiz qr code" width="50%"/>
+<img src="quiz_qr.png" alt="quiz qr code" width="40%"/>
